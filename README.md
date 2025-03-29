@@ -1,0 +1,2 @@
+# FontAndCopyAndPaste
+コピペとフォントダウンロード用です。
